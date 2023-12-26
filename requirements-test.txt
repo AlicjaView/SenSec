@@ -1,0 +1,6 @@
+# requirements-test.txt
+
+# Wersje bibliotek mogą być dostosowywane w zależności od Twoich potrzeb
+pytest==7.0.1
+coverage==6.0
+# Dodaj inne biblioteki, jeśli są wymagane do testów
