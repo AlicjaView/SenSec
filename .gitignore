@@ -1,0 +1,24 @@
+# Pliki generowane przez Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Środowisko wirtualne
+venv/
+
+# Pliki konfiguracyjne systemu
+*.env
+
+# Pliki z logami
+*.log
+
+# Pliki tymczasowe
+*.tmp
+*.bak
+*.swp
+*~
+
+# Katalogi z wynikami testów
+pytest_cache/
+__pycache__/
