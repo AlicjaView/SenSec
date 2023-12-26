@@ -20,6 +20,14 @@ To install SenSec, follow these steps:
 2. Navigate to the project directory: `cd SenSec`
 3. Install dependencies: `pip install -r requirements.txt`
 
+# Repository Contents
+
+- config.py: Configuration file with default setting values and informative comments.
+
+- requirements.txt: File with project dependencies. It includes Python libraries required to run the project.
+  
+- .gitignore: A file containing expressions specifying which files and directories should be ignored by the Git version control system.
+
 # Configuration
 
 Before running SenSec, customize the settings in the `config.py` file according to your individual needs. Below are key settings that may require customization:
