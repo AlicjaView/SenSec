@@ -1,4 +1,5 @@
 # SenSec - System Monitoring, Analysis, and Security Tool
+IN PREPARATION!
 
 SenSec is an advanced tool created in Python that enables the monitoring, analysis, and security of computer systems. The project provides support for system protection, identification of potential threats, and response to unusual activities.
 
